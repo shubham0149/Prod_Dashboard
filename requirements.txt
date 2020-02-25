@@ -1,0 +1,8 @@
+pandas
+numpy
+ipywidgets
+plotly
+jupyter_dashboards
+termcolor
+xlrd
+jupyter_contrib_nbextensions
