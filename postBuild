@@ -1,0 +1,4 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension install --py jupyter_dashboards --sys-prefix
+jupyter nbextension enable --py jupyter_dashboards --sys-prefix
